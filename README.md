@@ -8,5 +8,6 @@ Nano+ Quadcopter
 
 ## Results
 
-Pose estimation using EKF and Vicon data as measurement
+State estimate using EKF and Vicon data as measurement.
+
 ![EKF](ekf_pose_estimation\code\part1\ekf1_d1.jpg)
